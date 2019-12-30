@@ -21,6 +21,7 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var btnLogin: UIButton!
     
+    var testgit = "demo"
     
     let email = "admin@gmail.com"
     let password = "12345"
